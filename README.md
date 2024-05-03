@@ -42,3 +42,6 @@
 - `@yourname/secure-random/browser` `@yourname/secure-name/server` 형태로 subpath 형태로도 export 할 수 있을까요?
 - eslint prettier 많관부
 - 클래스로 만들때와 함수로 만들때, 라이브러리를 사용하는 입장에서는 어떤차이가 있을까요?
+- npm과 github에서 보기 좋게 만드려면 어떻게 해야할까요?
+  - https://skerritt.blog/make-popular-open-source-projects
+  - https://opensourcesurvey.org/2017/#overview
